@@ -3,7 +3,7 @@ import { ThemeProvider } from 'styled-components';
 import { theme } from "../theme";
 
 //=================== components ======================//
-import Container from './Container';
+import Container from './common/Container';
 import Profile from "./Profile";
 import Statistics from './Statistics';
 import FriendList from './FriendList';
